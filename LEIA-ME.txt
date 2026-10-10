@@ -1,0 +1,10 @@
+CONTROLE DE PERDAS - RESTAURANTE
+
+Para testar no computador: abra index.html.
+Para instalar no iPhone: publique TODOS os arquivos desta pasta numa hospedagem HTTPS gratuita de site estático. Depois abra o endereço no Safari e escolha Compartilhar > Adicionar à Tela de Início.
+
+Os dados ficam no navegador do dispositivo (localStorage), não são sincronizados entre aparelhos. Faça backup JSON regularmente.
+
+Exportação: selecione as datas, escolha Resumido ou Detalhado e exporte CSV. Abra o Google Planilhas e importe o CSV usando separador ponto e vírgula. Também pode copiar a tabela e colar.
+
+Atenção: abrir diretamente index.html no iPhone pelo app Arquivos NÃO garante armazenamento persistente nem instalação PWA. Prefira HTTPS.
